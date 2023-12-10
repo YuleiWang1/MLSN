@@ -12,6 +12,7 @@ Code for paper：“Meta-Learning Based Hyperspectral Target Detection Using Sia
 
 Demo for MLSN
 1：Run tripletdetection.ipynb
+
 2：Run detection.py
 
 ### Citations
