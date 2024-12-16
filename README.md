@@ -2,7 +2,7 @@
 
 ## Meta-Learning Based Hyperspectral Target Detection Using Siamese Network(TGRS2022)
 
-Paper web page: [Meta-Learning Based Hyperspectral Target Detection Using Siamese Network]([IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9762261)).
+Paper web page: [Meta-Learning Based Hyperspectral Target Detection Using Siamese Network]([IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9762261).
 
 ![MCLT](figure/MSLN.png)
 
